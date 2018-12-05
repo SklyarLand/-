@@ -1,9 +1,0 @@
-C:\Users\Lenovo\source\repos\ConsoleApp2\ConcreteBuilder\bin\Debug\ConcreteBuilder.dll
-C:\Users\Lenovo\source\repos\ConsoleApp2\ConcreteBuilder\bin\Debug\ConcreteBuilder.pdb
-C:\Users\Lenovo\source\repos\ConsoleApp2\ConcreteBuilder\bin\Debug\Builder.dll
-C:\Users\Lenovo\source\repos\ConsoleApp2\ConcreteBuilder\bin\Debug\Builder.pdb
-C:\Users\Lenovo\source\repos\ConsoleApp2\ConcreteBuilder\obj\Debug\ConcreteBuilder.csprojAssemblyReference.cache
-C:\Users\Lenovo\source\repos\ConsoleApp2\ConcreteBuilder\obj\Debug\ConcreteBuilder.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\ConsoleApp2\ConcreteBuilder\obj\Debug\ConcreteBuilder.csproj.CopyComplete
-C:\Users\Lenovo\source\repos\ConsoleApp2\ConcreteBuilder\obj\Debug\ConcreteBuilder.dll
-C:\Users\Lenovo\source\repos\ConsoleApp2\ConcreteBuilder\obj\Debug\ConcreteBuilder.pdb
