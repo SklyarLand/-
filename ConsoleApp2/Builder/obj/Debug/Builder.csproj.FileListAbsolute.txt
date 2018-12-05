@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\ConsoleApp2\Builder\bin\Debug\Builder.dll
+C:\Users\Lenovo\source\repos\ConsoleApp2\Builder\bin\Debug\Builder.pdb
+C:\Users\Lenovo\source\repos\ConsoleApp2\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsoleApp2\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleApp2\Builder\obj\Debug\Builder.dll
+C:\Users\Lenovo\source\repos\ConsoleApp2\Builder\obj\Debug\Builder.pdb
+C:\Users\Lenovo\source\repos\ConsoleApp2\Builder\bin\Debug\BinaryTree.dll
+C:\Users\Lenovo\source\repos\ConsoleApp2\Builder\bin\Debug\BinaryTree.pdb
+C:\Users\Lenovo\source\repos\ConsoleApp2\Builder\obj\Debug\Builder.csproj.CopyComplete
