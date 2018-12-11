@@ -10,9 +10,10 @@ namespace Commands
     {
         public void Execute(List<ICommand> ts, List<int> Unit)
         {
-            for (int i = 0; i < ts.Count; i++)
-                Console.WriteLine(ts[i]);
-            ts.Add(new PrintLog());                //добавление команды в журнал команд
+            for (int i=0;i<ts.Count ;i++)
+                Console.WriteLine(ts[i].ToString());
+            Console.WriteLine("\n\nПорядок добавления элементов:" + Unit.ToString());
+            ts.Add(new PrintLog());
         }
         public override string ToString()
         {

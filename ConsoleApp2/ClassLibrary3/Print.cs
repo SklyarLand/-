@@ -18,16 +18,16 @@ namespace Commands
             Product _product = new Product(b1.GetResult());
             Console.WriteLine(_product.ToString());
 
-            ts.Add(new Print());                            //добавление команды в журнал команд
+            ts.Add(new Print());
+ 
+            FileStream FileWriter = new FileStream(@"Result.txt", FileMode.Create);
+            byte[] array = System.Text.Encoding.Default.GetBytes("Обход в глубину:"+_product.ToString());
+            FileWriter.Write(array,0,array.Length);
 
-            FileStream FileWriter = new FileStream(@"Result.txt", FileMode.Create);        //создание файла
-            //создание массива символов
-            byte[] array = System.Text.Encoding.Default.GetBytes("Обход в глубину:" + _product.ToString());  
-            FileWriter.Write(array, 0, array.Length);               //запись в файл
         }
         public override string ToString()
         {
-            return "\tвывод дерева";
+            return "\tвывести элемент";
         }
     }
 }

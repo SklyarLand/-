@@ -10,10 +10,10 @@ namespace Commands
     {
         public void Execute(List<ICommand> ts,List<int> Unit)
         {
-            Console.WriteLine("Число:");                                   //ввод эемента
+            Console.WriteLine("Число:");
             int Input = Int32.Parse(Console.ReadLine());
-            Unit.Add(Input);                                               //добавление в лист значений
-            ts.Add(new Add());                                             //добавление команды в журнал команд
+            Unit.Add(Input);
+            ts.Add(new Add());
             Console.WriteLine("добавлен элемент");
         }
 

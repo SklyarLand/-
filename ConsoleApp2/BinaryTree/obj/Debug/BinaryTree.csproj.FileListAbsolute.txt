@@ -4,9 +4,3 @@ C:\Users\Lenovo\source\repos\ConsoleApp2\BinaryTree\bin\Debug\BinaryTree.dll
 C:\Users\Lenovo\source\repos\ConsoleApp2\BinaryTree\bin\Debug\BinaryTree.pdb
 C:\Users\Lenovo\source\repos\ConsoleApp2\BinaryTree\obj\Debug\BinaryTree.dll
 C:\Users\Lenovo\source\repos\ConsoleApp2\BinaryTree\obj\Debug\BinaryTree.pdb
-C:\Users\Lenovo\C-and-Pain\ConsoleApp2\BinaryTree\bin\Debug\BinaryTree.dll
-C:\Users\Lenovo\C-and-Pain\ConsoleApp2\BinaryTree\bin\Debug\BinaryTree.pdb
-C:\Users\Lenovo\C-and-Pain\ConsoleApp2\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
-C:\Users\Lenovo\C-and-Pain\ConsoleApp2\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\C-and-Pain\ConsoleApp2\BinaryTree\obj\Debug\BinaryTree.dll
-C:\Users\Lenovo\C-and-Pain\ConsoleApp2\BinaryTree\obj\Debug\BinaryTree.pdb

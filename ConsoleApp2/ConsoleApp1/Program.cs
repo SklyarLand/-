@@ -13,7 +13,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            
             var remote = new RemoteControl();
             string userInput;
 

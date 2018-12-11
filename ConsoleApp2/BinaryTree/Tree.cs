@@ -20,6 +20,7 @@ namespace BinaryTree
             {
                 node = new TreeNode(val);
                 return;
+
             }
             else
             {
@@ -30,7 +31,7 @@ namespace BinaryTree
             }
         }
         // печать дерева (рекурсивно) 
-        public void SetRecursion(ref TreeNode node, ref string s)    //на вход корень и ссылка на строку
+        public void SetRecursion(ref TreeNode node,ref string s)    //на вход корень и ссылка на строку
         {
             if (node != null)
             {
@@ -40,6 +41,9 @@ namespace BinaryTree
                 if (node.Right != null)
                     SetRecursion(ref node.Right, ref s);
             }
+            
+            
+
         }
     }
 }

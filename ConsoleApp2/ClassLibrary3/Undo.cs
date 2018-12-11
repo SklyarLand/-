@@ -13,8 +13,8 @@ namespace Commands
         public void Execute(List<ICommand> ts, List<int> Unit)
         {
             Console.WriteLine("Удален элемент: {0}", Unit[Unit.Count() - 1]);
+            ts.Add(new UnDo());
             Unit.RemoveAt(Unit.Count() - 1);
-            ts.Add(new UnDo());                             //добавление команды в журнал команд
         }
         public override string ToString()
         {
